@@ -5,4 +5,4 @@ Our mission is to develop intelligent yet human-in-command robots that can colla
 
 If you want to know more about us visit our website at https://hri.iit.it/.
 
-![lab-logo](../assets/hrii-logo.png)
+<img align="center" src="./assets/hrii-logo.png">
